@@ -1,6 +1,4 @@
-# Identification-of-Geometric-Shapes-and-Estimating-its-size-through-CNN-
-
-# Geometric Shape Detection with CNN
+# Geometric Shape Detection and size estimation with CNN
 
 Deep learning model for automated industrial packaging inspection.
 
